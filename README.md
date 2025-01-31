@@ -1,11 +1,5 @@
 ### "Hello Word" 👋
 
-- 💰 No momemnto trabalho como auxiliar administrativo
-- 📚 Faço faculdade de Ciencia e Tecnologia
-- 💡 Estou estudando Python e Java.
-- 💬 Contate-me via email: ctt.leticia.profissional@gmail.com
-- 😄 Pronomes: ela/dela
-
 <div>
   <a href="https://github.com/lehandrioli"> 
   <img height="180cm" src="https://">

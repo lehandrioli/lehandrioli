@@ -1,4 +1,4 @@
-### "Hello Word" 👋
+### "Hello World" 👋
 
 <div>
   <a href="https://github.com/lehandrioli"> 

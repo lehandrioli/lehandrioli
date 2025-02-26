@@ -1,6 +1,4 @@
-print('='*20)
-print('Hello World') 👋
-print('='*20)
+##"Hello World" 👋
 
 <div>
   <a href="https://github.com/lehandrioli"> 
